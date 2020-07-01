@@ -2,7 +2,7 @@
 
 ## Overview
 
-This simple project uses **opencv** and **pyzbar** to simulate a QR Code tracker robot. The robot used, a  [P3DX robot available in ROS](http://wiki.ros.org/Robots/AMR_Pioneer_Compatible),
+This simple project uses **![opencv](https://pypi.org/project/opencv-python/)** and **![pyzbar](https://pypi.org/project/pyzbar/)** to simulate a QR Code tracker robot. The robot used, a  [P3DX robot available in ROS](http://wiki.ros.org/Robots/AMR_Pioneer_Compatible),
 has a camera and a laser scan. In this project, the robot spin in a base until it find a QR Code. Then, it stop moving and print the message in the
 screen and in the terminal
 
