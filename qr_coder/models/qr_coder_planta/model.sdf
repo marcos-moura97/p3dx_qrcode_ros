@@ -1,0 +1,34 @@
+<?xml version='1.0'?>
+<sdf version='1.6'>
+  <model name='qr_coder_planta'>
+    <link name='Wall_22'>
+      <collision name='Wall_22_Collision'>
+        <geometry>
+          <box>
+            <size>3 3 3</size>
+          </box>
+        </geometry>
+        <pose frame=''>0 0 0.5 0 -0 0</pose>
+      </collision>
+      <visual name='Wall_22_Visual'>
+        <pose frame=''>0 0 0.5 0 -0 0</pose>
+        <geometry>
+          <box>
+            <size>3 3 3</size>
+          </box>
+        </geometry>
+        <material>
+          <script>
+	    <uri>model://qr_coder_planta/materials/scripts</uri>
+            <uri>model://qr_coder_planta/materials/textures</uri>
+            <name>course/Image</name>
+          </script>
+          <ambient>1 1 1 1</ambient>
+        </material>
+      </visual>
+      <pose frame=''>5.425 0 0 0 0 15.708</pose>
+    </link>
+
+    <static>1</static>
+  </model>
+</sdf>

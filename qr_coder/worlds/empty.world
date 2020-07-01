@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<sdf version="1.4">
+  <world name="default">
+    <!-- Uma fonte de luz global -->
+    <include>
+      <uri>model://sun</uri>
+    </include>
+    <!-- O chão -->
+    <include>
+      <uri>model://my_ground_plane_marcos</uri>
+    </include>
+    <!-- A parede -->
+    <include>
+      <uri>model://qr_coder_planta</uri>
+    </include>
+
+  </world>
+</sdf>
