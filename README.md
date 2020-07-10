@@ -100,7 +100,7 @@ Como resultado, quando o robô encontra o QR Code, você pode vê-lo na imagem e
 
 ![Nodes](/qr_coder/photo_qrcode.png "photo_qrcode")
 
-!Nodes](/qr_coder/text.png "text")
+![Nodes](/qr_coder/text.png "text")
 
 
 # A QR Code reader robot in ROS <img src="https://www.championprofessional.com/wp-content/uploads/2015/07/en-icon.png" width="40" />
