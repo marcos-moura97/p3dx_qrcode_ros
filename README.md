@@ -1,4 +1,4 @@
-# Um robô leitor de código QR no ROS <img src="https://lh3.googleusercontent.com/proxy/sQCSagzVuc1X3_zgLypJlEX_iDNLzb1urNU3lP54BJETeKExkKnuugvMpng6r_ULUjPqgUGKNjHDiqP78PxPzPPEm8maDXc0UOdgAxr-xg" width="40" />
+# Um robô leitor de código QR no ROS <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQdgBEX9U3kDSvXtCVyDqfA1uIlomS8rwJQCw&usqp=CAU" width="40" />
 
 ## Visão geral
 
